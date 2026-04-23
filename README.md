@@ -52,6 +52,6 @@ The project is divided into three main analytical sheets:
 
 ---
 
-**Project Developed by:** [Aasthakumari Vaishnani]  
+**Project Developed by:Aasthakumari Vaishnani  
 **Technology:** Microsoft Excel (Office 365 / 2019)  
 **Date:** April 2026
